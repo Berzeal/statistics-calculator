@@ -32,4 +32,4 @@ A simple statistics calculator built as part of the [freeCodeCamp](https://www.f
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/berzeal/statistics-calculator.git
+git clone https://github.com/Berzeal/statistics-calculator.git
